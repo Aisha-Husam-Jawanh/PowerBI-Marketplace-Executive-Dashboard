@@ -14,7 +14,7 @@ A high-end, executive-grade Power BI dashboard designed to provide seamless moni
 
 ## 🎥 Interactive Demo
 
-<video src="https://github.com/Aisha-Husam-Jawanh/PowerBI-Marketplace-Executive-Dashboard/raw/refs/heads/main/demo.mp4.mp4" controls width="100%"></video>
+[▶️ **Click here to watch the Interactive Dashboard Demo Video**](https://github.com/Aisha-Husam-Jawanh/PowerBI-Marketplace-Executive-Dashboard/blob/main/Video%20Project%206.mp4)
 
 ---
 
