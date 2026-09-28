@@ -1,10 +1,10 @@
-# 📊 Marketplace Executive Dashboard — Power BI
+# Marketplace Executive Dashboard — Power BI
 
 A high-end, executive-grade Power BI dashboard designed to provide seamless monitoring of marketplace operations and sales metrics. Built with a modern **Glassmorphism UI/UX** aesthetic (transparency, rounded corners, and smooth blur effects) across a structured two-page interface.
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 | Executive Overview | Detailed Analytics |
 | :---: | :---: |
@@ -14,11 +14,11 @@ A high-end, executive-grade Power BI dashboard designed to provide seamless moni
 
 ## 🎥 Interactive Demo
 
-
+<video src="https://github.com/Aisha-Husam-Jawanh/PowerBI-Marketplace-Executive-Dashboard/raw/refs/heads/main/demo.mp4.mp4" controls width="100%"></video>
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Glassmorphism Visual Styling:** 40% transparency, 10px rounded visual borders, dark tech-gray background, and cohesive typography.
 * **Two-Page Dynamic Navigation:** Built-in **Page Navigator** enabling 1-click seamless transitions between summary and granular views.
@@ -27,7 +27,7 @@ A high-end, executive-grade Power BI dashboard designed to provide seamless moni
 
 ---
 
-## 📑 Pages Breakdown
+## Pages Breakdown
 
 ### 1. Executive Overview
 Designed for C-level executives to evaluate high-level business health at a glance:
@@ -44,7 +44,7 @@ Focused on operational insights and granular drill-downs:
 
 ---
 
-## 🛠️ Data Architecture & Tech Stack
+## Data Architecture & Tech Stack
 
 * **Tool:** Power BI Desktop
 * **Data Modeling:** Star Schema architecture connecting core tables (`Orders`, `Dim_Date`, `Customers`, `Order_Items`, `Categories`, `Deliveries`).
@@ -53,7 +53,7 @@ Focused on operational insights and granular drill-downs:
 
 ---
 
-## 📂 Project Setup & How to Use
+## Project Setup & How to Use
 
 1. Clone or download this repository.
 2. Open `Marketplace_Executive_Dashboard.pbix` in **Power BI Desktop**.
