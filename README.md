@@ -14,7 +14,7 @@ A high-end, executive-grade Power BI dashboard designed to provide seamless moni
 
 ## 🎥 Interactive Demo
 
-![Interactive Dashboard Demo](demo.gif)
+![Interactive Dashboard Demo](demo.gif.mp4)
 
 ---
 
